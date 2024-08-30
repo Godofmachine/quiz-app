@@ -43,6 +43,16 @@ const questions = [
       correctAnswer: 0
     },
     {
+        question: "When is a contract of sale classified as conditional?",
+        options: [
+          "When the goods are delivered immediately",
+          "When the goods are paid for in installments",
+          "When the transfer of ownership is subject to the fulfillment of conditions",
+          "When the buyer can return the goods anytime"
+        ],
+        correctAnswer: 2
+      },
+    {
       question: "In a contract for the sale of goods yet to be manufactured, the contract is classified as?",
       options: [
         "A sale",
@@ -993,6 +1003,7 @@ const questions = [
         ],
         correctAnswer: 1
       },
+      
       {
         question: "What is the effect of a reservation of title clause under the Sale of Goods Act?",
         options: [
@@ -1042,6 +1053,26 @@ const questions = [
           "The seller can transfer title by default"
         ],
         correctAnswer: 0
+      },
+      {
+        question: "What is the effect of a retention of title clause in a sale of goods contract?",
+        options: [
+          "The buyer owns the goods immediately",
+          "The seller retains ownership until full payment is made",
+          "The buyer can return the goods at any time",
+          "The seller must deliver the goods regardless of payment"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What protects a buyer who purchases goods from a seller who retains possession?",
+        options: [
+          "The Sale of Goods Act",
+          "The Consumer Protection Act",
+          "The doctrine of estoppel",
+          "The Law of Contracts"
+        ],
+        correctAnswer: 2
       },
       {
         question: "Under Section 25(1) of the Sale of Goods Act, 1893, when can a seller in possession of goods after a sale pass a good title to a third party?",
