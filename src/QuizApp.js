@@ -434,6 +434,236 @@ const questions = [
         correctAnswer: 1
       },
       {
+        question: "What does condition mean in the context of the Sale of Goods Act, 1893?",
+        options: [
+          "A minor term of the contract",
+          "A major term that goes to the root of the contract",
+          "A term that allows for refunds",
+          "A term that must be fulfilled after delivery"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, what happens if a seller breaches a warranty?",
+        options: [
+          "The buyer can reject the goods",
+          "The buyer can cancel the entire contract",
+          "The buyer can sue for damages but must accept the goods",
+          "The buyer cannot take any action"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Which of the following is a requirement for a valid sale under the Sale of Goods Act, 1893?",
+        options: [
+          "Goods must be in existence",
+          "Payment must be in cash",
+          "Delivery must be immediate",
+          "The buyer must be a corporation"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Which of the following is crucial for the formation of a sale of goods contract?",
+        options: [
+          "Registration with the government",
+          "Agreement on price",
+          "Presence of legal representation",
+          "Goods must be present at the time of agreement"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In a sale by sample under the Sale of Goods Act, 1893, what is implied about the goods?",
+        options: [
+          "They will be exactly the same as the sample",
+          "They will be of lesser quality than the sample",
+          "They must be of merchantable quality",
+          "They will be more expensive than the sample"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Which section of the Sale of Goods Act, 1893, deals with the seller's right to sell the goods?",
+        options: [
+          "Section 12",
+          "Section 16",
+          "Section 19",
+          "Section 24"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, who bears the risk of loss when the property in the goods has passed to the buyer?",
+        options: [
+          "The seller",
+          "The buyer",
+          "The carrier",
+          "The insurer"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What is the significance of the term unascertained goods under the Sale of Goods Act, 1893?",
+        options: [
+          "Goods identified at the time of contract",
+          "Goods that have yet to be identified or selected",
+          "Goods already delivered",
+          "Goods paid for but not yet delivered"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "If a buyer refuses to accept goods, what remedy does the seller have under the Sale of Goods Act, 1893?",
+        options: [
+          "Sue for the price",
+          "Sue for damages",
+          "Resell the goods and claim damages for any loss",
+          "All of the above"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "What is the significance of a memorandum in writing in a sale of goods contract?",
+        options: [
+          "It is necessary for large transactions",
+          "It serves as proof of agreement",
+          "It is required for all contracts",
+          "It is optional but recommended"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Which is required for a contract involving the sale of goods by sample?",
+        options: [
+          "The buyer must inspect the sample",
+          "The seller must guarantee the sample quality",
+          "The goods must match the sample",
+          "The buyer must sign a waiver"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "What is the legal consequence if the goods do not match the sample provided?",
+        options: [
+          "The buyer can reject the goods",
+          "The seller can adjust the price",
+          "The buyer must accept the goods",
+          "The buyer can demand a replacement"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, which of the following is not a type of implied condition?",
+        options: [
+          "Condition as to title",
+          "Condition as to description",
+          "Condition as to merchantable quality",
+          "Condition as to future price"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "What does the term caveat emptor mean in the context of the Sale of Goods Act, 1893?",
+        options: [
+          "Let the seller beware",
+          "Buyer beware",
+          "Return policy",
+          "Guarantee"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Which of the following does the Sale of Goods Act, 1893, NOT cover?",
+        options: [
+          "Sale of goods",
+          "Barter transactions",
+          "Hire-purchase agreements",
+          "Both B and C"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "According to the Sale of Goods Act, 1893, when can a buyer reject goods for breach of a condition?",
+        options: [
+          "At any time before delivery",
+          "Only before property passes to the buyer",
+          "Only after property passes to the buyer",
+          "After delivery but before payment"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In the Sale of Goods Act, 1893, what does specific goods refer to?",
+        options: [
+          "Goods identified and agreed upon at the time the contract is made",
+          "Generic goods not yet selected",
+          "Goods made to order",
+          "Goods in bulk quantities"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, if goods are sold by description, what is implied?",
+        options: [
+          "The goods must match the description",
+          "The goods must be of the highest quality",
+          "The goods must be new",
+          "The goods must be cheaper than market value"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under Section 17 of the Sale of Goods Act, 1893, when the intention of the parties regarding the transfer of title is unclear, what rule is applied to determine when the property in specific or ascertained goods passes to the buyer?",
+        options: [
+          "The property passes upon payment of the price",
+          "The property passes when the goods are delivered to the buyer",
+          "The property passes when the parties have mutually agreed that it should pass",
+          "The property passes at the time of the contract, unless a different intention appears"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "According to Section 19(1) of the Sale of Goods Act, 1893, if the seller reserves the right of disposal of the goods, when does the property pass to the buyer?",
+        options: [
+          "When the buyer takes possession of the goods",
+          "When the goods are delivered to the carrier",
+          "When the condition upon which the seller reserved the right of disposal is fulfilled",
+          "When the payment is made in full by the buyer"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Under Section 18, Rule 1, how does the Sale of Goods Act, 1893, determine the passing of property in specific goods in a deliverable state?",
+        options: [
+          "The property passes when the goods are shipped",
+          "The property passes when the buyer inspects the goods",
+          "The property passes at the time the contract is made, regardless of delivery",
+          "The property passes when the buyer pays for the goods"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Section 20 of the Sale of Goods Act, 1893, deals with the transfer of risk in relation to the goods. If the property in specific goods has passed to the buyer, who bears the risk of loss or damage to the goods?",
+        options: [
+          "The seller until the goods are delivered",
+          "The buyer, even if the goods remain with the seller",
+          "The carrier during transit",
+          "Both parties share the risk equally"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In relation to unascertained goods, when does Section 23 of the Sale of Goods Act, 1893, stipulate that the property in the goods passes to the buyer?",
+        options: [
+          "When the goods are delivered to the buyer",
+          "When the goods are appropriated to the contract and both parties are notified",
+          "When the goods are shipped by the seller",
+          "When the buyer pays the price in full"
+        ],
+        correctAnswer: 1
+      },
+      {
         question: "What factors should be considered to ascertain the intention of the parties regarding the transfer of property in the goods?",
         options: [
           "The terms of the contract",
@@ -502,6 +732,346 @@ const questions = [
           "By obtaining a receipt for the purchase"
         ],
         correctAnswer: 0
+      },
+      {
+        question: "What does the principle of agency permit in the context of selling goods?",
+        options: [
+          "A seller who is not the owner to transfer title to the buyer",
+          "A buyer to return goods at any time",
+          "A seller to sell goods without any authority",
+          "A buyer to acquire goods without payment"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "According to Section 21 of the Sale of Goods Act, 1893, what is the legal effect if a seller sells goods without having the title to them, and later acquires the title?",
+        options: [
+          "The sale is void and cannot be ratified",
+          "The sale is automatically ratified once the seller acquires the title",
+          "The sale remains invalid unless the buyer consents",
+          "The sale is valid only if the buyer makes full payment"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Section 19(2) of the Sale of Goods Act, 1893, states that the property in the goods does not pass if the seller has reserved the right of disposal. What is the implication if the seller ships the goods but retains the bill of lading?",
+        options: [
+          "The buyer gains title upon receipt of the goods",
+          "The seller retains risk but not title",
+          "The seller retains title until payment or fulfillment of conditions",
+          "The buyer may reject the goods upon delivery"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "How does Section 25(1) of the Sale of Goods Act, 1893, affect the transfer of title when the seller is still in possession of the goods after sale?",
+        options: [
+          "The original buyer retains title",
+          "The seller can transfer a valid title to a third party who buys in good faith",
+          "The sale to the third party is void",
+          "The seller retains a lien over the goods"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Section 22 of the Sale of Goods Act, 1893, discusses the transfer of title by a non-owner. Under what condition can a non-owner transfer a good title to the buyer?",
+        options: [
+          "When the non-owner is a relative of the true owner",
+          "When the non-owner is a merchant",
+          "When the true owner is estopped from denying the seller’s authority to sell",
+          "When the non-owner has physical possession of the goods"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "In Section 27 of the Sale of Goods Act, 1893, what is the primary obligation of the seller in a contract?",
+        options: [
+          "To deliver the goods",
+          "To transfer the title to the goods",
+          "To provide warranty of merchantable quality",
+          "To ensure the goods are insured"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "The rule of nemo dat quod non habet is fundamental in the Sale of Goods Act, 1893. Which section provides the primary statutory exception to this rule, allowing a non-owner to pass a good title to a bona fide purchaser?",
+        options: [
+          "Section 12",
+          "Section 19",
+          "Section 25",
+          "Section 27"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Under Section 23 of the Sale of Goods Act, 1893, when does a sale by a seller who has retained possession of goods after selling them to the original buyer allow the seller to pass good title to a third party?",
+        options: [
+          "When the goods are delivered to the third party",
+          "When the original buyer agrees to the sale",
+          "When the third party purchases in good faith and without notice of the prior sale",
+          "When the seller offers a discount to the third party"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Section 25(1) of the Sale of Goods Act, 1893, deals with sales by a person in possession of goods after the sale. What condition must be met for the third party to acquire a good title under this exception to nemo dat quod non habet?",
+        options: [
+          "The third party must be a relative of the seller",
+          "The third party must act in good faith without knowledge of the prior sale",
+          "The third party must be a licensed merchant",
+          "The third party must pay a higher price"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In which scenario under Section 27 of the Sale of Goods Act, 1893, does estoppel prevent the true owner from asserting their title against an innocent third party?",
+        options: [
+          "When the true owner is unaware of the sale",
+          "When the true owner stands by and allows the non-owner to appear as if they have the authority to sell",
+          "When the true owner has not registered their ownership",
+          "When the true owner has a poor credit rating"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Section 24 of the Sale of Goods Act, 1893, provides an exception to the nemo dat rule in the case of a sale under a voidable title. When can the buyer acquire a good title even if the seller’s title was voidable?",
+        options: [
+          "When the buyer pays less than market value",
+          "When the buyer acts in good faith and without notice of the seller's defective title",
+          "When the buyer is a corporation",
+          "When the goods are perishable"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "According to the doctrine of estoppel as applied in the Sale of Goods Act, 1893, which of the following does NOT constitute a basis for estoppel preventing the true owner from reclaiming goods?",
+        options: [
+          "The owner's representation that the seller has the authority to sell",
+          "The owner's conduct leading the buyer to believe the seller has authority",
+          "The owner’s failure to assert ownership within a reasonable time",
+          "The owner’s negligence in safeguarding their property"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Under Section 25(2) of the Sale of Goods Act, 1893, how does the concept of estoppel interact with the transfer of title when a seller retains a bill of lading after shipping the goods?",
+        options: [
+          "The buyer gains title upon receiving the goods",
+          "Estoppel prevents the seller from transferring title until the bill of lading is handed over",
+          "The buyer can resell the goods without title",
+          "The carrier holds title until delivery"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In the context of the Sale of Goods Act, 1893, when can an agent sell goods and bind the principal under the principle of estoppel, creating an exception to nemo dat?",
+        options: [
+          "When the agent has the principal's explicit consent",
+          "When the agent is a relative of the principal",
+          "When the agent has apparent authority, and the buyer relies on it",
+          "When the agent is an experienced merchant"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Section 26 of the Sale of Goods Act, 1893, refers to sales by agents acting under a contract of sale. How does this section create an exception to nemo dat by applying estoppel?",
+        options: [
+          "The principal is estopped from denying the agent's authority if they have previously authorized similar transactions",
+          "The principal can claim the goods from the buyer",
+          "The agent must first consult with the principal before the sale",
+          "The buyer must verify the agent's authority in writing"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under Section 27 of the Sale of Goods Act, 1893, how does the rule of estoppel apply when the true owner allows a non-owner to possess and appear to have the authority to sell goods?",
+        options: [
+          "The true owner loses the right to claim the goods",
+          "The non-owner gains full ownership",
+          "The buyer acquires a good title if they act in good faith",
+          "The true owner can still reclaim the goods"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Which of the following is a condition in the context of the Sale of Goods Act, 1893?",
+        options: [
+          "A major term that goes to the root of the contract",
+          "A minor term of the contract",
+          "A term that allows for refunds",
+          "A term that must be fulfilled after delivery"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, what is the effect of a breach of a condition?",
+        options: [
+          "The buyer may repudiate the contract and reject the goods",
+          "The buyer must accept the goods but can claim damages",
+          "The buyer must renegotiate the contract",
+          "The seller can cancel the contract"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "What does “merchantable quality” mean under the Sale of Goods Act?",
+        options: [
+          "The goods must be of the highest quality",
+          "The goods must be fit for the purpose for which such goods are commonly bought",
+          "The goods must be cheap",
+          "The goods must be brand new"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In a sale by sample under the Sale of Goods Act, 1893, what is implied about the goods?",
+        options: [
+          "They must correspond with the sample in quality",
+          "They can differ slightly from the sample",
+          "They must be of higher quality than the sample",
+          "They must be cheaper than the sample"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Which of the following is an implied term in every contract for the sale of goods under the Sale of Goods Act, 1893?",
+        options: [
+          "Warranty of satisfaction",
+          "Condition as to title",
+          "Condition as to resale value",
+          "Condition of uniqueness"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What is the purpose of an exclusion clause in a contract under the Sale of Goods Act, 1893?",
+        options: [
+          "To guarantee performance",
+          "To limit or exclude liability for certain breaches",
+          "To ensure a refund",
+          "To void the contract"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "When can an exclusion clause be enforced under the Sale of Goods Act, 1893?",
+        options: [
+          "When it is clearly communicated and agreed upon by the parties",
+          "When it is in small print and not noticed by the buyer",
+          "When it is implied by law",
+          "When it is not mentioned in the contract"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Which of the following is NOT a factor that affects the enforceability of an exclusion clause?",
+        options: [
+          "The financial status of the buyer",
+          "Whether the clause was incorporated into the contract",
+          "Whether the clause was brought to the attention of the buyer",
+          "Whether the clause covers the breach in question"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, what is the effect of an exclusion clause that attempts to exclude liability for personal injury?",
+        options: [
+          "It is generally void and unenforceable",
+          "It is enforceable if agreed upon",
+          "It is valid unless challenged in court",
+          "It is enforceable only if signed by both parties"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "What is the significance of the Unfair Contract Terms Act in relation to exclusion clauses in the Sale of Goods Act?",
+        options: [
+          "It strengthens the enforceability of exclusion clauses",
+          "It limits the effectiveness of exclusion clauses, especially in consumer contracts",
+          "It removes the need for exclusion clauses",
+          "It makes exclusion clauses compulsory in all contracts"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What is the effect of a reservation of title clause under the Sale of Goods Act?",
+        options: [
+          "The seller retains ownership of the goods until certain conditions are met",
+          "The buyer automatically gains ownership upon payment",
+          "The goods are not legally considered sold until delivered",
+          "The buyer must pay an additional fee for ownership"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the Sale of Goods Act, 1893, when does risk pass to the buyer?",
+        options: [
+          "Upon the delivery of goods",
+          "When the property in the goods passes to the buyer",
+          "When the contract is signed",
+          "When the buyer takes possession"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What happens to the property in goods that are unascertained at the time of the contract?",
+        options: [
+          "It passes immediately to the buyer",
+          "It does not pass until the goods are ascertained",
+          "The seller retains ownership indefinitely",
+          "The property is shared between buyer and seller"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In a sale of specific goods, when does the property pass if the goods are not in a deliverable state?",
+        options: [
+          "When the goods are put into a deliverable state and the buyer is notified",
+          "When the goods are identified",
+          "Upon payment of the price",
+          "Upon signing of the contract"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under the rule of nemo dat quod non habet, what happens if someone sells goods they do not own?",
+        options: [
+          "The buyer generally does not acquire a good title",
+          "The buyer automatically acquires the title",
+          "The buyer can claim ownership if unaware of the lack of title",
+          "The seller can transfer title by default"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Under Section 25(1) of the Sale of Goods Act, 1893, when can a seller in possession of goods after a sale pass a good title to a third party?",
+        options: [
+          "Only if the third party knows of the prior sale",
+          "If the third party purchases in good faith and without notice of the previous sale",
+          "Only if the original buyer consents",
+          "Only if the seller is also the owner"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "What does Section 27 of the Sale of Goods Act, 1893, provide regarding estoppel and the transfer of title?",
+        options: [
+          "The true owner may be estopped from denying the seller’s right to sell if they allowed the seller to appear as the owner",
+          "The buyer must always verify the seller’s ownership",
+          "Estoppel applies only if the sale is fraudulent",
+          "Estoppel does not apply to sales under the Act"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Which of the following scenarios does NOT result in the transfer of good title to a buyer under the Sale of Goods Act?",
+        options: [
+          "Sale by a mercantile agent within their authority",
+          "Sale under a voidable title before it is voided",
+          "Sale by a thief of stolen goods",
+          "Sale by an authorized receiver in bankruptcy"
+        ],
+        correctAnswer: 2
       }
       
 
