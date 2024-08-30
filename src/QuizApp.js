@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import { ChevronRight, ChevronLeft, Check, X } from 'lucide-react';
 
 const questions = [
